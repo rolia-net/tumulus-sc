@@ -1,2 +1,2 @@
 # tumulus
-The completely re-architected Tumulus system, (Milestone 4)
+The completely re-architected Tumulus smart contract (for Milestone 4)
