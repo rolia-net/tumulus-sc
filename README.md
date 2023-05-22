@@ -1,2 +1,2 @@
-# tumulus
-The completely re-architected Tumulus smart contract (for Milestone 4)
+# Datasitter
+Smart contract providing data marshalling based on states of data owners.
